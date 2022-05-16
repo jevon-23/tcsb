@@ -1,8 +1,4 @@
 """
-Authors: 
-    Student : Alexander Eichner
-    Coach   : Jevon Jackson
-
 A program that starts a uses a keyboard listener to run functionality based on a key that is
 pressed.
 """
